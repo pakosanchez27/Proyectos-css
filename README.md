@@ -11,7 +11,6 @@ En este curso se usan tecnologias como:
 * SASS
 * Gulp
 * Workflows
-* Fetch API
 * NPM
 * Responsive Design
 
