@@ -23,3 +23,4 @@ En este curso se usan tecnologias como:
 * [Sitio de Podcast](https://podcastdev.netlify.app)
 * [Sitio Clon Airbnb](https://cloneairbnb1.netlify.app)
 * [Sitio Venta de casas](https://realstate02.netlify.app)
+* [Salon de Bellesa](https://carolinaspa03.netlify.app)
