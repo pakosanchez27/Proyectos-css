@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Francisco Sanchez",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
