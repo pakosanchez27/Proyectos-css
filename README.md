@@ -1,4 +1,4 @@
-## https://escuelacocina1.netlify.appProyectos Realizados del curso de Udemy [CSS La Guía Completa](https://www.udemy.com/course/css-grid-y-flexbox-la-guia-definitiva-crea-10-proyectos/) `<br>`
+##Proyectos Realizados del curso de Udemy [CSS La Guía Completa](https://www.udemy.com/course/css-grid-y-flexbox-la-guia-definitiva-crea-10-proyectos/) `<br>`
 
 En este curso se usan tecnologias como:
 
